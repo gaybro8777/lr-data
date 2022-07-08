@@ -8,7 +8,7 @@ greenlet==0.3.3
 kombu==1.5.1
 pika==0.9.5
 pyes==0.16.0
-pymongo==2.1.1
+pymongo==2.5.2
 pysolr==2.1.0-beta
 python-dateutil==1.5
 redis==2.4.10
